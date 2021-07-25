@@ -15,7 +15,7 @@
 	{/each}
 
 	{#each elements as element}
-		<Tooltip {element}>You've just opened a tooltip  </Tooltip>
+		<Tooltip {element}> You've just opened a tooltip </Tooltip>
 	{/each}
 </main>
 
